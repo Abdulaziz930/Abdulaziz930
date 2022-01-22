@@ -5,7 +5,9 @@
 
 Skills
 ---
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width: 45px;" />
+</p>
 
 <img src="https://github.com/Abdulaziz930/Abdulaziz930/blob/main/Abdulgif1.gif" >
