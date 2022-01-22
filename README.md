@@ -5,6 +5,6 @@
 
 Skills
 ---
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 
 <img src="https://github.com/Abdulaziz930/Abdulaziz930/blob/main/Abdulgif1.gif" >
