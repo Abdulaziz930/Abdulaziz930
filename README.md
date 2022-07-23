@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BF723&lines=Hello,+my+name+is+Abdulaziz.+I'am+software+developer+and+instructor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BF723&lines=Hello,+my+name+is+Abdulaziz.;I'am+software+developer+and+instructor.)](https://git.io/typing-svg)
 
 :chart_with_upwards_trend: Github stats  
 ---
