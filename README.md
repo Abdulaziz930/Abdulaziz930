@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2BF723&lines=Hello+,+my+name+is+Abdulaziz+.+I+am+software+developer+and+instructor+.)](https://git.io/typing-svg)
+
 :chart_with_upwards_trend: Github stats  
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz930&hide=css,html&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
