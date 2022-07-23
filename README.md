@@ -23,5 +23,3 @@
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" style="margin-left: 45px;"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-left: 45px;"/>
 </p>
-
-<img src="https://github.com/Abdulaziz930/Abdulaziz930/blob/main/Abdulgif1.gif" >
