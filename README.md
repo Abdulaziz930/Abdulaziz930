@@ -1,8 +1,8 @@
-<h1 align="center">Salam, mən Abdulaziz 👋</h1>
-<h3 align="center">Full-Stack Software Developer @ Travacco</h3>
+<h1 align="center">Hi, I'm Abdulaziz 👋</h1>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2BF723&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;.NET+%2B+React%2FTypeScript;B2B+SaaS+%40+Travacco;Baku%2C+Azerbaijan+%F0%9F%87%A6%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2BF723&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;.NET+%2B+React%2FTypeScript;Building+SaaS+Products;Based+in+Baku%2C+Azerbaijan" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,13 +12,12 @@
 
 ---
 
-### 🧑‍💻 Haqqımda
+### 🧑‍💻 About Me
 
-- 🏢 Hazırda **Travacco**-da (B2B SaaS turizm agentliyi idarəetmə platforması) full-stack developer kimi çalışıram
-- 🛠️ .NET mikroservis arxitekturası, React/TypeScript admin panelləri, Next.js frontend-lər üzərində işləyirəm
-- 🌱 Hazırda backend performans optimizasiyası, real-time sistemlər (RabbitMQ/MassTransit) və clean architecture ilə maraqlanıram
-- ⚽ Developer olmazdan əvvəl də, indi də futbol həvəskarıyam
-- 📍 Baku, Azerbaijan
+- 🔭 Currently building B2B SaaS products with .NET microservices and React/TypeScript
+- 🌱 Interested in backend performance optimization, real-time systems (RabbitMQ/MassTransit), and clean architecture
+- 💬 Ask me about .NET, React, TypeScript, SQL Server
+- 📍 Based in Baku, Azerbaijan
 
 ---
 
@@ -29,7 +28,7 @@
 </p>
 
 <details>
-<summary>📋 Ətraflı</summary>
+<summary>📋 Details</summary>
 <br>
 
 **Backend**
@@ -57,41 +56,20 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdulaziz930&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz930&layout=compact&theme=github_dark&hide_border=true&hide=html,css" />
-</p>
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz930&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulaziz930&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
-### 📌 Pinned / Featured Projects
+### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Abdulaziz930/LimakAz_BackEnd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz930&repo=LimakAz_BackEnd&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abdulaziz930/limak-az--front-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz930&repo=limak-az--front-end&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Abdulaziz930/211studios_BackEnd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz930&repo=211studios_BackEnd&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abdulaziz930/211studios--front-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz930&repo=211studios--front-end&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+- **[LimakAz_BackEnd](https://github.com/Abdulaziz930/LimakAz_BackEnd)** — C# backend service
+- **[limak-az--front-end](https://github.com/Abdulaziz930/limak-az--front-end)** — JavaScript frontend
+- **[211studios_BackEnd](https://github.com/Abdulaziz930/211studios_BackEnd)** — C# backend service
+- **[211studios--front-end](https://github.com/Abdulaziz930/211studios--front-end)** — TypeScript frontend
 
 ---
 
