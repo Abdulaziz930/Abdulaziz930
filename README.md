@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulazizkarimli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Abd_Karimli"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/abdulazizkarimli/](https://www.linkedin.com/in/abdulaziz-karimli/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
